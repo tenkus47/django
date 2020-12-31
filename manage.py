@@ -3,7 +3,6 @@
 import os
 import sys
 
-KDJASLKFJ
 
 def main():
     """Run administrative tasks."""
